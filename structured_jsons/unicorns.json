@@ -1,0 +1,182 @@
+[
+  {
+    "Company": "Safe Superintel",
+    "Valuation": "$5B",
+    "Employees": 10,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Adept",
+    "Valuation": "$1B",
+    "Employees": 25,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "StackBlitz",
+    "Valuation": "$0.7B",
+    "Employees": 28,
+    "Business Model": "B2C"
+  },
+  {
+    "Company": "Anysphere",
+    "Valuation": "$2.6B",
+    "Employees": 30,
+    "Business Model": "B2C"
+  },
+  {
+    "Company": "Midjourney",
+    "Valuation": "$10B",
+    "Employees": 49,
+    "Business Model": "B2C"
+  },
+  {
+    "Company": "Cognition AI",
+    "Valuation": "$2B",
+    "Employees": 51,
+    "Business Model": "B2C"
+  },
+  {
+    "Company": "Flex",
+    "Valuation": "$1.9B",
+    "Employees": 70,
+    "Business Model": "B2C"
+  },
+  {
+    "Company": "Runway",
+    "Valuation": "$1.5B",
+    "Employees": 100,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "Hebbia",
+    "Valuation": "$0.7B",
+    "Employees": 107,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Clay",
+    "Valuation": "$1.25B",
+    "Employees": 110,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Celestial AI",
+    "Valuation": "$1.2B",
+    "Employees": 114,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Sierra",
+    "Valuation": "$4.5B",
+    "Employees": 135,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Together AI",
+    "Valuation": "$3.3B",
+    "Employees": 140,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Codeium",
+    "Valuation": "$2.85B",
+    "Employees": 146,
+    "Business Model": "B2C"
+  },
+  {
+    "Company": "Replit",
+    "Valuation": "$1.16B",
+    "Employees": 147,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "Harvey",
+    "Valuation": "$3B",
+    "Employees": 155,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Mercor",
+    "Valuation": "$2B",
+    "Employees": 181,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Figure",
+    "Valuation": "$2.6B",
+    "Employees": 193,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Perplexity",
+    "Valuation": "$9B",
+    "Employees": 202,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "ElevenLabs",
+    "Valuation": "$3.3B",
+    "Employees": 210,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "EliseAI",
+    "Valuation": "$1B",
+    "Employees": 236,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Writer",
+    "Valuation": "$1.9B",
+    "Employees": 300,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "Groq",
+    "Valuation": "$2.8B",
+    "Employees": 351,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "EvenUp",
+    "Valuation": "$1B",
+    "Employees": 373,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Cyera",
+    "Valuation": "$3B",
+    "Employees": 413,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Synthesia",
+    "Valuation": "$2.1B",
+    "Employees": 448,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "Hugging Face",
+    "Valuation": "$4.5B",
+    "Employees": 484,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Glean",
+    "Valuation": "$4.6B",
+    "Employees": 600,
+    "Business Model": "B2B"
+  },
+  {
+    "Company": "Anthropic",
+    "Valuation": "$18.5B",
+    "Employees": 750,
+    "Business Model": "B2B and B2C"
+  },
+  {
+    "Company": "OpenAI",
+    "Valuation": "$157B",
+    "Employees": 2500,
+    "Business Model": "B2B and B2C"
+  }
+]

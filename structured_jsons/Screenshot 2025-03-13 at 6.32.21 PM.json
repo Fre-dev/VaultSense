@@ -1,0 +1,140 @@
+[
+  {
+    "Reviewer's confidence": {
+      "type": "radio",
+      "options": [
+        "Excellent",
+        "Very good",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "visibility": [
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Relevance to IJCNN": {
+      "type": "radio",
+      "options": [
+        "Excellent",
+        "Very good",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "visibility": [
+        "authors during feedback",
+        "authors after notification",
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Technical quality": {
+      "type": "radio",
+      "options": [
+        "Excellent",
+        "Very good",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "visibility": [
+        "authors during feedback",
+        "authors after notification",
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Novelty": {
+      "type": "radio",
+      "options": [
+        "Excellent",
+        "Very good",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "visibility": [
+        "authors during feedback",
+        "authors after notification",
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Quality of presentation": {
+      "type": "radio",
+      "options": [
+        "Excellent",
+        "Very good",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "visibility": [
+        "authors during feedback",
+        "authors after notification",
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Award quality": {
+      "type": "radio",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "visibility": [
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Suggested type of presentation": {
+      "type": "radio",
+      "options": [
+        "Oral",
+        "Poster",
+        "Indifferent"
+      ],
+      "visibility": [
+        "other reviewers",
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  },
+  {
+    "Overall recommendation": {
+      "type": "radio",
+      "options": [
+        "Strong Accept",
+        "Accept",
+        "Weak Accept",
+        "Borderline",
+        "Weak Reject"
+      ],
+      "visibility": [
+        "meta-reviewers",
+        "senior meta-reviewers"
+      ]
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "title": "Sample Video Descriptions",
+  "videos": [
+    {
+      "description": "Teaser for CHI '23"
+    },
+    {
+      "description": "Video presentation about the dangers surrounding artificial intelligence"
+    },
+    {
+      "description": "Video showing the progress of animatronics over a 30 year period"
+    }
+  ]
+}
