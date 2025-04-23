@@ -1,12 +1,26 @@
-fastapi
-uvicorn
-python-multipart
-python-dotenv
+# Core Libraries
+torch
+numpy>=1.24.0
+
+# Transformers and Embedding Models
+transformers
+sentence-transformers>=2.2.2
 mistralai
-pillow
+accelerate>=1.6.0
+
+# FastAPI + Web Server
+fastapi
+uvicorn[standard]
+httpx
+
+# Data Handling and Serialization
 pydantic
 pydantic-settings
+python-multipart
+python-dotenv
+
+# Security / Auth
 python-jose
-httpx 
-sentence-transformers>=2.2.2
-numpy>=1.24.0
+
+# Image Processing
+pillow
