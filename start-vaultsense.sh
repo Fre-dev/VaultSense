@@ -29,6 +29,15 @@ mv docker-compose.yaml.new docker-compose.yaml
 
 echo "Updated docker-compose.yaml with your local IP address ($LOCAL_IP)"
 
+# Install sqlite for mac if not installed
+if ! command -v sqlite3 &> /dev/null; then
+    echo "sqlite3 could not be found, installing..."
+    brew install sqlite
+fi
+
+# Start local SQLite database
+sqlite3 ./sqlite/vaultsense.db < ./sqlite/vaultsense.sql
+
 # Start the docker containers
 echo "Starting VaultSense services..."
 docker-compose up -d
