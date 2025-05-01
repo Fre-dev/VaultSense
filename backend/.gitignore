@@ -1,0 +1,9 @@
+/.venv/
+/app/__pycache__/
+/app/routers/__pycache__/
+/app/.env
+/app/llm/__pycache__/
+/app/services/__pycache__
+/app/routes/__pycache__
+/app/schemas/__pycache__
+/app/utils/__pycache__
