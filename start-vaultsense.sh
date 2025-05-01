@@ -1,4 +1,6 @@
 #!/bin/bash
+# Install python dependencies
+pip install -r ai/requirements.txt
 
 # Find the local machine IP address
 if [[ "$OSTYPE" == "linux-gnu"* ]]; then
@@ -41,6 +43,10 @@ sqlite3 ./sqlite/vaultsense.db < ./sqlite/vaultsense.sql
 # Start the docker containers
 echo "Starting VaultSense services..."
 docker-compose up -d
+
+# Create the following collections in milvus by running the following python script
+echo "Creating Milvus collections..."
+python scripts/create_milvus_collections.py
 
 echo "VaultSense services started successfully!"
 echo "You can access the Attu UI at: http://localhost:8001" 
