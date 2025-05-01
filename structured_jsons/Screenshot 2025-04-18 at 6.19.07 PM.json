@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Augmentations to avoid (or use only in Stream A with masks)",
+    "augmentations": [
+      {
+        "name": "Independent random crop / rotation per image",
+        "danger": "Creates false 'change' everywhere"
+      },
+      {
+        "name": "Cutout / CutMix / random erasing on one image",
+        "danger": "Synthetic occlusion \u2192 label inconsistency"
+      },
+      {
+        "name": "Large perspective warp only on one image",
+        "danger": "Severe parallax not represented in ground truth"
+      },
+      {
+        "name": "MixUp between different locations",
+        "danger": "Loss of geometric meaning"
+      },
+      {
+        "name": "Color jitter that alters semantic colors in masks",
+        "danger": "Irrelevant for masks but may confuse color-aware backbones"
+      }
+    ]
+  }
+]

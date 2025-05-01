@@ -1,0 +1,20 @@
+{
+  "billing_period": {
+    "start_date": "2025-02-11",
+    "end_date": "2025-03-12"
+  },
+  "amount_due": 170.35,
+  "payment_due_date": "today",
+  "details": {
+    "previous_balance": 260.35,
+    "payment_received": -90.0,
+    "current_electric_charges": -306.67,
+    "current_pseg_charges": 90.0,
+    "total_amount_due": 260.35,
+    "payments_received_since_last_bill": -90.0
+  },
+  "billing_status": {
+    "days_into_billing_period": 19,
+    "next_billing_period_end_date": "2025-04-10"
+  }
+}

@@ -44,7 +44,6 @@ sqlite3 ./sqlite/vaultsense.db < ./sqlite/vaultsense.sql
 echo "Starting VaultSense services..."
 docker-compose up -d
 
-
 # Create the following collections in milvus by running the following python script
 echo "Creating Milvus collections..."
 python scripts/create_milvus_collections.py
